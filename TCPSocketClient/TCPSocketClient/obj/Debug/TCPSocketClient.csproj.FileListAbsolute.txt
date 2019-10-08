@@ -1,0 +1,16 @@
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csprojResolveAssemblyReference.cache
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.exe.config
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.exe
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.pdb
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.exe
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.pdb
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.Client.resources
+C:\Users\Crogogo\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.GenerateResource.Cache
+C:\Users\croten\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.exe.config
+C:\Users\croten\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.exe
+C:\Users\croten\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.pdb
+C:\Users\croten\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csprojResolveAssemblyReference.cache
+C:\Users\croten\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.Client.resources
+C:\Users\croten\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.GenerateResource.Cache
+C:\Users\croten\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.exe
+C:\Users\croten\Documents\SharpDevelop Projects\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.pdb
